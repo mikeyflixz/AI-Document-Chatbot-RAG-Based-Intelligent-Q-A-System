@@ -1,29 +1,5 @@
 # LocalGPT - Private Document Intelligence Platform
 
-<div align="center">
-
-<p align="center">
-<a href="https://trendshift.io/repositories/2947" target="_blank"><img src="https://trendshift.io/api/badge/repositories/2947" alt="PromtEngineer%2FlocalGPT | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
-</p>
-
-[![GitHub Stars](https://img.shields.io/github/stars/PromtEngineer/localGPT?style=flat-square)](https://github.com/PromtEngineer/localGPT/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/PromtEngineer/localGPT?style=flat-square)](https://github.com/PromtEngineer/localGPT/network/members)
-[![GitHub Issues](https://img.shields.io/github/issues/PromtEngineer/localGPT?style=flat-square)](https://github.com/PromtEngineer/localGPT/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/PromtEngineer/localGPT?style=flat-square)](https://github.com/PromtEngineer/localGPT/pulls)
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg?style=flat-square)](https://www.python.org/downloads/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](LICENSE)
-[![Docker](https://img.shields.io/badge/docker-supported-blue.svg?style=flat-square)](https://www.docker.com/)
-
-<p align="center">
-    <a href="https://x.com/engineerrprompt">
-      <img src="https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X" />
-    </a>
-    <a href="https://discord.gg/tUDWAFGc">
-      <img src="https://img.shields.io/badge/Join%20our%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join our Discord" />
-    </a>
-  </p>
-</div>
-
 ## 🚀 What is LocalGPT?
 
 LocalGPT is a **fully private, on-premise Document Intelligence platform**. Ask questions, summarise, and uncover insights from your files with state-of-the-art AI—no data ever leaves your machine.
@@ -32,8 +8,6 @@ More than a traditional RAG (Retrieval-Augmented Generation) tool, LocalGPT feat
 
 The architecture is **modular and lightweight**—enable only the components you need. With a pure-Python core and minimal dependencies, LocalGPT is simple to deploy, run, and maintain on any infrastructure.The system has minimal dependencies on frameworks and libraries, making it easy to deploy and maintain. The RAG system is pure python and does not require any additional dependencies.
 
-## ▶️ Video
-Watch this [video](https://youtu.be/JTbtGH3secI) to get started with LocalGPT. 
 
 | Home | Create Index | Chat |
 |------|--------------|------|
@@ -875,14 +849,6 @@ For comprehensive contributing guidelines, including:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. For models, please check their respective licenses.
 
----
-
-## 📞 Support
-
-- **Documentation**: [Technical Docs](TECHNICAL_DOCS.md)
-- **Issues**: [GitHub Issues](https://github.com/PromtEngineer/localGPT/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/PromtEngineer/localGPT/discussions)
-- **Business Deployment and Customization**: [Contact Us](https://tally.so/r/wv6R2d)
 ---
 
 <div align="center">
